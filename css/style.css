@@ -1,0 +1,54 @@
+/************************tags selector********************/
+
+body{
+  background-color: #D1E8E4;
+  text-align: center;
+  margin:0px;
+}
+
+
+
+
+h2{
+font-family: 'Roboto Mono', monospace;
+}
+
+p{
+
+  font-family: 'Mulish', sans-serif;
+  padding: 5px;
+
+}
+
+
+
+
+
+
+/************************class selector********************/
+
+.qr-image{
+  width:220px;
+  height: 200px;
+  margin-top: 12px;
+  border-radius: 15px;
+}
+
+.top-container{
+  width: 250px;
+  height:390px;
+  background-color: #F7F5F2;
+
+  margin: 150px auto;
+border-radius: 15px;
+
+}
+
+.second-container{
+  padding-bottom: 5px;
+
+}
+
+
+
+/************************id selector********************/
